@@ -28,7 +28,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "broccoli-funnel": "^2.0.1",
     "broccoli-merge-trees": "^2.0.0",
-    "daterangepicker": "^3.0.3",
+    "daterangepicker": "github:armiiller/daterangepicker",
     "ember-cli-babel": "^6.9.2",
     "ember-cli-htmlbars": "^2.0.3",
     "ember-cli-import-polyfill": "^0.2.0",
